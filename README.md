@@ -22,9 +22,9 @@ fizz
 
 ## Rules
 
-1) Function fizzbuzz return string splitted by new line char
-2) On every line if line number not is divisible by three or five then write line number
-3) If number of line is divisible by three then then write 'fizz'
-4) If number of line is divisible by fize then write 'buzz'
-5) if number of line is divisible by three and fize then write 'fizzbuzz'
+1. Function fizzbuzz return string splitted by new line char
+2. On every line if line number not is divisible by three or five then write line number
+3. If number of line is divisible by three then then write 'fizz'
+4. If number of line is divisible by fize then write 'buzz'
+5. if number of line is divisible by three and fize then write 'fizzbuzz'
 
