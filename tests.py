@@ -15,3 +15,9 @@ def test_fizzbuzz_count_to_five():
     result = fizzbuzz(5)
     assert result == '1\n2\nfizz\n4\nbuzz\n'
 
+
+def test_fizzbuzz_count_to_fifteen():
+    result = fizzbuzz(15)
+    assert (
+        result == '1\n2\nfizz\n4\nbuzz\nfizz\n7\n8\nfizz\nbuzz\n11\nfizz\n13\n14\nfizzbuzz\n'
+    )
