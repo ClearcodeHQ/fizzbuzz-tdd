@@ -8,5 +8,5 @@ python:
   - "pypy"
 install:
   - pip install -r requirements.txt
-script: pytest --cov=fizzbuzz
+script: pytest --cov=fizzbuzz tests.py
 
