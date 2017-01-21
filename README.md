@@ -4,7 +4,7 @@ Fizzbuzz with TDD example to prelection on smcebi
 ## Requirements
 
 ```
-pip install pytest==3.0.5
+pip install -r requirements.txt
 ```
 
 ## Example of output
