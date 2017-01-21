@@ -1,5 +1,5 @@
 # fizzbuzz-tdd
-![travis](https://travis-ci.org/ClearcodeHQ/fizzbuzz-tdd.svg?branch=master)
+[![Build Status](https://travis-ci.org/ClearcodeHQ/fizzbuzz-tdd.svg?branch=master)](https://travis-ci.org/ClearcodeHQ/fizzbuzz-tdd)
 Fizzbuzz with TDD example to prelection on smcebi
 
 ## Requirements
