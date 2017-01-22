@@ -12,3 +12,5 @@ def fizzbuzz(n, fizz='fizz', buzz='buzz'):
         s += '\n'
     return s
 
+def fizzbuzz_list(n):
+    return []

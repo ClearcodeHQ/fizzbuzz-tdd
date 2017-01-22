@@ -1,4 +1,4 @@
-from fizzbuzz import fizzbuzz
+from fizzbuzz import fizzbuzz, fizzbuzz_list
 
 
 def test_fizzbuzz_count_to_two():
@@ -33,4 +33,8 @@ def test_fizzbuzz_count_to_15_with_another_words():
     assert (
         result == '1\n2\nogorek\n4\nziemniak\nogorek\n7\n8\nogorek\nziemniak\n11\nogorek\n13\n14\nogorekziemniak\n'
     )
+
+def test_fizzbuzz_list_to_five():
+    result = fizzbuzz_list(5)
+    assert result == ['1', '2', 'fizz', '4', 'buzz']
 
