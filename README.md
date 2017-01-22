@@ -29,3 +29,4 @@ fizz
 4. If number of line is divisible by fize then write 'buzz'
 5. If number of line is divisible by three and fize then write 'fizzbuzz'
 6. 'fizz' and 'buzz' words must be changed as additional parameters
+7. We want fizzbuzz_list function to return list of elements
