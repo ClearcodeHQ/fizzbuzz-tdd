@@ -1,0 +1,11 @@
+Python: true
+engines:
+        radon:
+                enabled: true
+        pep8:
+                enabled: true
+        duplication:
+                enabled: true
+                config:
+                        languages:
+                                - python
